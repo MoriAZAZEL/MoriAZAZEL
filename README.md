@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pranjal Singh</h1>
-<h3 align="center">Aspiring cybersecurity professional seeking to contribute to an organization's security posture and exploring the art of defensive security. Building security tools, practicing in virtual labs, and sharing what I learn. Currently focused on cloud security and threat hunting.</h3>
+<h3 align="center">I am Learner.</h3>
 
 <p align="left">
 </p>
